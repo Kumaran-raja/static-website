@@ -1,0 +1,27 @@
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+}
+marquee{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+nav{
+    display: inline;
+    background-color: blueviolet;
+    position: fixed;
+    text-align: center;
+    top: 0px;right: 0px;
+    left: 0px;
+    padding: 15px;
+    z-index: 1;
+}
